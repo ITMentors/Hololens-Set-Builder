@@ -1,0 +1,4 @@
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\AR Set Builder\AR Set Builder.csproj;x86
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

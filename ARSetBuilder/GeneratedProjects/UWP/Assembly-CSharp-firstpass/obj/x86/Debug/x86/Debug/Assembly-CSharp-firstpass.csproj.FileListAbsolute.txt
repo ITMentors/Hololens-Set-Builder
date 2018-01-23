@@ -1,0 +1,17 @@
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.dll
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pdb
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\bin\x86\Debug\Assembly-CSharp-firstpass.pri
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.dll
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\Assembly-CSharp-firstpass.pdb
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\priconfig.xml.intermediate
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\layout.resfiles.intermediate
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\resources.resfiles.intermediate
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\pri.resfiles.intermediate
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\qualifiers.txt.intermediate
+Z:\Hololens Dev\HolographicAcademy-Holograms-101\Origami\ARSetBuilder\GeneratedProjects\UWP\Assembly-CSharp-firstpass\obj\x86\Debug\x86\Debug\MultipleQualifiersPerDimensionFound.txt
